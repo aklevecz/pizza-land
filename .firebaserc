@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "eggs69"
+  },
+  "targets": {
+    "eggs69": {
+      "hosting": {
+        "pizza": [
+          "raptor-pizza"
+        ]
+      }
+    }
+  }
+}
